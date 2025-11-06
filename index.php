@@ -1,7 +1,7 @@
 <?php
 // TOKEN
-$token = ""; // bot token
-$admin = ""; // userID of your account
+$token = "8313749837:AAGsFXXCMZ91jRtx0QnnS5-Dfe_Uqd1GCXI"; // bot token
+$admin = "7920180546"; // userID of your account
 
 // BOT
 function bot($method, $datas = [])
